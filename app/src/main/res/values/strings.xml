@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">facebook</string>
+    <string name="email_hint" translatable="false">Mobile Number or Email Address</string>
+    <string name="password_hint" translatable="false">Password</string>
+    <string name="Login" translatable="false">Log in</string>
+    <string name="forgot_password" translatable="false">Forgotten Password?</string>
+    <string name="sign_up" translatable="false">Create new account</string>
+    <string name="meta_logo" translatable="false">meta logo</string>
+    <string name="fb_icon" translatable="false">fb icon</string>
+</resources>

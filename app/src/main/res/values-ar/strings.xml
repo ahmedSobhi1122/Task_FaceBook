@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">facebook</string>
+    <string name="password_hint">كلمة المرور</string>
+    <string name="Login">تسجيل الدخول</string>
+    <string name="forgot_password">نسيت كلمة المرور</string>
+    <string name="sign_up">"عمل "</string>
+</resources>
